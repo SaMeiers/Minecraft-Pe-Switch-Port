@@ -1,0 +1,40 @@
+TERMS OF USE AND DISCLAIMER FOR Minecraft Pe Switch Port
+Version 1.0, 03/13/2026
+
+THIS SOFTWARE IS NOT OFFICIAL AND IS NOT ENDORSED BY MOJANG STUDIOS OR MICROSOFT.
+
+1. Intellectual Property
+   "Minecraft" is a registered trademark of Mojang Synergies AB. Microsoft Corporation.
+   The original game's code and assets are the property of their respective owners.
+   This project is a fan work created for the purposes of preservation, study, and
+   interoperability on the Nintendo Switch platform.
+
+2. Absence of Infringing Source Code
+   This repository DOES NOT contain the original source code of "Minecraft - Pocket Edition."
+   Only a binary file (`.nro`) is distributed, which acts as a compatibility layer or "port."
+   To use this software, the user MUST own a legitimate legal copy of the original game
+   files and provide them independently.
+
+3. Disclaimer of Warranties
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS OF
+   THE PORT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+   OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. Use on Nintendo Switch
+   This software is designed to run on the Nintendo Switch in a Homebrew environment.
+   Installing or using it may violate Nintendo's terms of service.
+   The author is not responsible for console bans, damage, or losses resulting from its use.
+   Use it at your own risk.
+
+5. Immediate Removal
+   If you are a representative of Mojang Studios or Microsoft and believe this project
+   infringes on your rights, please contact the repository owner. The content will be
+   removed immediately without the need for legal action.
+
+6. Distribution
+   Redistribution of this binary for non-commercial purposes is permitted, provided that
+   this notice is retained and no charge is made for it. Any commercial or profitable use
+   is strictly prohibited.
