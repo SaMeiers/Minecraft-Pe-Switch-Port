@@ -11,9 +11,7 @@ THIS SOFTWARE IS NOT OFFICIAL AND IS NOT ENDORSED BY MOJANG STUDIOS OR MICROSOFT
 
 2. Absence of Infringing Source Code
    This repository DOES NOT contain the original source code of "Minecraft - Pocket Edition."
-   Only a binary file (`.nro`) is distributed, which acts as a compatibility layer or "port."
-   To use this software, the user MUST own a legitimate legal copy of the original game
-   files and provide them independently.
+   Only a binary file (`.nro`) is distributed, which acts as a compatibility layer or "port." 
 
 3. Disclaimer of Warranties
    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
