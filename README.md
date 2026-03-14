@@ -4,6 +4,8 @@ A native Nintendo Switch port of Minecraft Pocket Edition (v0.6.1 alpha compatib
 
 ## Controls
 
+For a deep dive into how the original PC keyboard and mouse inputs were adapted for the Switch Joy-Cons, please read the [Control Adaptation Guide](CONTROLS_SWITCH.md).
+
 | Button | Action |
 |--------|--------|
 | A | Jump / UI Confirm |
@@ -58,4 +60,5 @@ The official repository is located at: https://github.com/SaMeiers/Minecraft-Pe-
 - All original game mechanics and features are preserved
 - Network functionality requires WiFi connection on the Switch
 - Any bug/recommendation will be welcome, and taken into account for future updates (if I dare)
-- I'd like to share the source code, but I don't want copyright issues 
+- I'd like to share the source code, but I don't want copyright issues
+ 
